@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I am passionate web developer with insatiable thrist for knowledge. I love creating solutions for my laziness, that can be usefull to others (i hope). For this I have used Vue.js, Vuex, Vuetify, Webpack, Firebase, Express.js, Axios & various APIs, and always looking forward learning something new and improve existing skills.
 
