@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am passionate web developer with insatiable thrist for knowledge. I love creating solutions for my laziness, that can be usefull to others (i hope). For this I am using JavaScript/Typescript. Also I used Vue.js, Vuex, Vuetify, Webpack, Firebase, Express.js, Axios & various APIs like Google, Twitter, Goodreads and many more! I am always looking forward learning something new and improve existing skills.
+I am passionate web developer with insatiable thrist for knowledge. I love creating solutions for my laziness, that can be usefull to others (i hope). For this I am using JavaScript/TypeScript. Also I used Vue.js, Vuex, Vuetify, Webpack, Firebase, Express.js, Axios & various APIs like Google, Twitter, Goodreads and many more! I am always looking forward learning something new and improve existing skills.
 
 I am currently working on a project for administrating your "virtual" book library. You can check the repositories right below this readme!
 
