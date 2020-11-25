@@ -4,8 +4,6 @@ I am passionate web developer with insatiable thrist for knowledge. I love creat
 
 I am currently working on a project for administrating your "virtual" book library, called BookShelf. You can check the repositories right below this readme! I recently hosted it using Firebase Hosting! Check it out [here](https://bookshelf-a2203.web.app/)
 
-I am also looking for a job! Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/nkash/).
-
 <!--
 **disgraceful/disgraceful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
